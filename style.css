@@ -101,47 +101,38 @@ button {
 }
 
 
-@media only screen and (max-width: 900px) {
- .chat{
-        margin-left: 500px;
-        width: 200%;
-    }
-    #inpbox{
-        display: flex;
-    }
-    button{
-        margin-left: 10px;
-        color: transparent;
-        
-    }
-    #sendbnt {
-       color:  rgba(104, 101, 101, 0.856);
-       margin-bottom: 2px;
-    }
-  }
+@media only screen and (max-width: 700px) {
 
-  @media only screen and (max-width: 393px) {
+  
+
     .chat{
-           margin-left: 100px;
-           width: 200%;
-          margin-left: 200px;
-       }
-       #bot{
-           margin-top: 500px;
-           width: 400px;
-           height: 200px;
-           margin-right: 200px;
-       }
-       #inpbox{
-           display: flex;
-       }
-       button{
-           margin-left: 10px;
-           color: transparent;
-           
-       }
-       #sendbnt {
-          color:  rgba(104, 101, 101, 0.856);
-          margin-bottom: 2px;
-       }
-     }
+
+    margin: auto;
+
+    width: 200%;
+
+    }
+
+    
+
+    #inpbox{
+
+    display: flex;
+
+    }
+
+    button{
+
+    margin-left: 10px; 
+
+    }
+
+    #sendbnt {
+
+    color:  rgba(104, 101, 101, 0.856);
+
+    margin-bottom: -10px;
+
+    }
+
+    }
