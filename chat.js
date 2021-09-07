@@ -11,6 +11,10 @@ let reply = {
             
             "how old are you" : " I am infinity in age",
             
-            "what is your name" : " My name is chatbot create by helodeepakji"
+            "what is your name" : " My name is chatbot create by helodeepakji",
+          
+            "i m fine" : "good",
+             
+            "i am fine" : "great"
             
         };
